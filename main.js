@@ -1,1 +1,1 @@
-console.log("hello shiba")
+var s="lee quang";
