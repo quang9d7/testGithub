@@ -1,1 +1,5 @@
-var s="lee quang nguyen";
+var s="lee quang 459";
+function hello()
+{
+    return "hello";
+}
